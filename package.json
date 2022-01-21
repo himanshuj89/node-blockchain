@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/himanshuj89/node-blockchain.git"
+    "url": "git+https://github.com/himanshuj89/node-blockchain-js.git"
   },
   "keywords": [
     "node-blockchain",
@@ -28,7 +28,7 @@
   "author": "Himanshu Jain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/himanshuj89/node-blockchain/issues"
+    "url": "https://github.com/himanshuj89/node-blockchain-js/issues"
   },
-  "homepage": "https://github.com/himanshuj89/node-blockchain#readme"
+  "homepage": "https://github.com/himanshuj89/node-blockchain-js#readme"
 }
